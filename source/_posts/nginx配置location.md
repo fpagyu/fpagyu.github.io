@@ -1,6 +1,6 @@
 ---
 title: nginx配置location
-date: 2018-02-01 17:38:42
+date: 2016-02-01 17:38:42
 tags:
 ---
 
