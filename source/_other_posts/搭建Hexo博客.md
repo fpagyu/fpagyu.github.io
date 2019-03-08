@@ -65,7 +65,7 @@ server {
 ```
 $ cd ~
 $ mkdir fpgayu.git
-$ cd fpgayu.gi
+$ cd fpgayu.git
 $ git init --bare
 ```
 
