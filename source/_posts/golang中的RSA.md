@@ -2,7 +2,7 @@
 layout: go
 title: golang中的rsa
 date: 2018-03-20 22:26:17
-tags: go,rsa
+tags: [rsa, go]
 ---
 
 ### RSA

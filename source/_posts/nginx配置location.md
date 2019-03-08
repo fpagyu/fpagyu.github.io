@@ -1,7 +1,7 @@
 ---
 title: nginx配置location
 date: 2016-02-01 17:38:42
-tags:
+tags: nginx
 ---
 
 ### location写法
@@ -20,7 +20,7 @@ location /documents/ {
   # 匹配任何以 /documents/ 开头的地址，匹配符合以后，还要继续往下搜索
   # 只有后面的正则表达式没有匹配到时，这一条才会采用这一条
   [ configuration C ]
-}
+
 location ~ /documents/Abc {
   # 匹配任何以 /documents/Abc 开头的地址，匹配符合以后，还要继续往下搜索
   # 只有后面的正则表达式没有匹配到时，这一条才会采用这一条

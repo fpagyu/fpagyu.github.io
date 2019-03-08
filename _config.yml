@@ -9,6 +9,8 @@ description:
 author: fpgayu
 language:
 timezone:
+sidebar-avatar: img/avatar.jpg
+github_username: fpagyu
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -42,6 +44,8 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
+post_style:
+  indent: 0
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -81,4 +85,4 @@ deploy:
   type: git
   message: update
   repo:
-      s1: root@yucloud.top:/root/fpgayu.git/,master
+      s1: root@dotio.top:/root/fpgayu.git/,master
